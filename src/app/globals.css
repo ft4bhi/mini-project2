@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .border-border {
+    @apply border-gray-300; /* Replace with actual color */
+  }
+}
