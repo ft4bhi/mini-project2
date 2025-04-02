@@ -21,10 +21,16 @@ export function Header() {
               Components
             </Link>
             <Link
-              href="/ai-generator"
+              href="https://gemini-ui-to-code-dkcpq2uvrnm7abeag5phqn.streamlit.app/"
               className="transition-colors hover:text-teal-300"
             >
               AI Generator
+            </Link>
+            <Link
+              href="/draw"
+              className="transition-colors hover:text-teal-300"
+            >
+              Draw
             </Link>
             <Link
               href="/docs"

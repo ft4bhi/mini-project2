@@ -164,7 +164,7 @@ Requirements:
                   value={generatedCode}
                   readOnly
                   placeholder="Generated code will appear here..."
-                  className="min-h-[400px] font-mono text-sm resize-none bg-gray-50"
+                  className="min-h-[400px] font-mono text-sm resize-none bg-gray-700"
                 />
               </div>
               
